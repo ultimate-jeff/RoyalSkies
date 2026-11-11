@@ -1,0 +1,9 @@
+{
+    "start_up": {
+        "window_size": [ 500, 500 ],
+        "game_resolution": [ 1920, 1080 ]
+    },
+    "runtime": {
+
+    }
+}
